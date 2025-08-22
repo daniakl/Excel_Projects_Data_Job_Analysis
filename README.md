@@ -1,4 +1,4 @@
-# Excel for Data Analysis ![excel logo](assets\Microsoft_Excel-Logo.wine.png)
+# Excel for Data Analysis ![excel logo](assets/Microsoft_Excel-Logo.wine.png)
 
 As part of the Excel fro Data analytics course built by Luke Barousse and Kelly Adams, we built two projects.
 The data set provided included thousands of job postings from the data filed and data field adjacent jobs.
@@ -12,7 +12,7 @@ This project was meant to apply knowledge acquired during the first part of the 
 
 We used formulas such as **XLOOKUP**, **MEDIAN**, **SORT**, **IF**, etc. We also learned to build graphs and tables. We learned how to lock cells, hide tabs and columns.
 
-![screenshot of Data Science Salary Calculator](assets\data-science-salary-calculator.png)
+![screenshot of Data Science Salary Calculator](assets/data-science-salary-calculator.png)
 
 ## Project 2: Building analysis
 
@@ -21,19 +21,19 @@ These tools were used to build various analysis of the data set. We used a mix o
 
 ### Analysis the necessity of specific skills depending on the job title.
 
-![skill job abalysis](assets\skill_job_analysis.png)
+![skill job abalysis](assets/skill_job_analysis.png)
 
 ### Analysis of the median salary of a specific set of job titles by selected country compared to the US median salary and the median salary excluding the US.
 
-![salary analysis](assets\salary_analysis.png)
+![salary analysis](assets/salary_analysis.png)
 
 ### Analysis on the median salary of specific set of jobs correlating to amount of skills to have for said jobs.
 
-![Salary vs skills](assets\salary_vs_skill.png)
+![Salary vs skills](assets/salary_vs_skill.png)
 
 ### Analysis on the likelyhood of needing a specific set of skills and the median salary of having said skills.
 
-![skill salary analysis](assets\skill_salary_analysis.png)
+![skill salary analysis](assets/skill_salary_analysis.png)
 
 # Conclusion:
 
